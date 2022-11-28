@@ -1,0 +1,5 @@
+﻿  ProProBas.cpp
+C:\Users\angel\OneDrive\Documentos\VisualStudio Trabajos\ProProBas\ProProBas\ProProBas.cpp(26,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\angel\OneDrive\Documentos\VisualStudio Trabajos\ProProBas\ProProBas\ProProBas.cpp(117,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angel\OneDrive\Documentos\VisualStudio Trabajos\ProProBas\ProProBas\ProProBas.cpp(414,8): warning C4101: 'c': variable local sin referencia
+  ProProBas.vcxproj -> C:\Users\angel\OneDrive\Documentos\VisualStudio Trabajos\ProProBas\x64\Debug\ProProBas.exe
